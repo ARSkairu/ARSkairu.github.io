@@ -1,0 +1,125 @@
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+.btn-secondary{
+	background-color: #3366ff;
+	transition: width 6s;
+}
+.btn-secondary:hover {
+	background-color: #66c2ff;
+	color: #fff;
+	width: 200px;
+	transition: width 6s;
+}
+.btn-secondary:focus {
+  color: #333;
+  text-shadow: none;
+  background-color: #3366ff;
+  border: .05rem solid #fff;
+}
+
+
+
+
+html,
+body {
+  height: 100%;
+  background-image: url(../content/wallpapersden.com_outrun-style-car-moving-on-the-bridge_3688x2076.jpg);
+  background-size:2000px;
+  background-position: center;
+}
+
+body {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-pack: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  color: #fff;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+}
+
+.cover-container {
+  max-width: 42em;
+}
+
+.boxes {
+	width: 10rem;
+	color: #000000;
+}
+
+
+
+.masthead {
+  margin-bottom: 2rem;
+}
+
+.masthead-brand {
+  margin-bottom: 0;
+}
+
+.nav-masthead .nav-link {
+  padding: .25rem 0;
+  font-weight: 700;
+  color: #0D4DBB;
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;
+}
+
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+  border-bottom-color :#0D4DBB;
+}
+
+.nav-masthead .nav-link + .nav-link {
+  margin-left: 1rem;
+}
+
+
+.nav-masthead .active {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+
+@media (min-width: 48em) {
+  .masthead-brand {
+    float: left;
+  }
+  .nav-masthead {
+    float: right;
+  }
+}
+
+.image-margin {
+	margin-left: 20%;
+}
+
+.nav-bottom {
+	align-content: stretch;
+}
+
+
+
+.cover {
+  padding: 0 1.5rem;
+}
+.cover .btn-lg {
+  padding: .75rem 1.25rem;
+  font-weight: 700;
+  transition: width 6s;
+}
+
+
+
+.mastfoot {
+  color: rgba(255, 255, 255, .5);
+}
+
+#table-cl {
+	align-content: center;
+}
