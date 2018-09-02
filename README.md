@@ -1,3 +1,9 @@
+EMPTY SPACE Profile website
+this website created for the purpose to fill my assignment in University.
+
+
+
+
 for my website
 (i took example cover layout then edit it up to me)
 for the navigation tab i am using col-sm-6 to makes the tab horizontally aligned
